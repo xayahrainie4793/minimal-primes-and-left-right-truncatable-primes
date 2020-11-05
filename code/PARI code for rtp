@@ -21,6 +21,6 @@ g(n)=if(n<10,n+48,if(n<36,n+55,if(n<62,n+61,if(n<77,n-29,if(n<84,n-19,if(n<90,n+
 
 c(n)=x=rtp(n);for(k=1,length(x),print1("\"");f(x[k],n);print1("\"=");print1(x[k]);print())
 
-d(n)=for(k=1,primepi(n-1),print1("\"");f(k,n);print1("\"=");print1(k);print())
+d(n)=for(k=1,primepi(n-1),print1("\"");f(prime(k),n);print1("\"=");print1(prime(k));print())
 
 cc(n)=d(n);c(n)
