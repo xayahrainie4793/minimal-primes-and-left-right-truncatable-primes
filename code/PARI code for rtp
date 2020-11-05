@@ -1,5 +1,5 @@
 rtp(base)={
-  local(pd=vector(eulerphi(base)),pdl=length(pd),fl=0,bl=[],sp=0,rr=[],j,k);
+  local(pd=vector(eulerphi(base)),pdl=length(pd),bl=[],rr=[],j,k);
   j=0;for(i=1,base-1,if(gcd(i,base)==1,j++;pd[j]=i));
   forprime(p=2,base-1,fl++;bl=concat(bl,[p]));
   while(length(bl)>0,
@@ -8,7 +8,7 @@ rtp(base)={
       p=bl[i]*base;
       k=0;z=[];
       for(j=1,pdl,if(ispseudoprime(p+pd[j]),k++;z=concat(z,p+pd[j]);nb=concat(nb,[p+pd[j]])));
-      fl+=k;sp+=!k;rr=concat(rr,z)
+      rr=concat(rr,z)
     );
     bl=nb
   );
