@@ -1,0 +1,6 @@
+rtp(base)=local(pd=vector(eulerphi(base)),pdl=length(pd),fl=0,bl=[],sp=0,rr=[],j,k);j=0;for(i=1,base-1,if(gcd(i,base)==1,j++;pd[j]=i));forprime(p=2,base-1,fl++;bl=concat(bl,[p]));while(length(bl)>0,nb=[];for(i=1,length(bl),p=bl[i]*base;k=0;z=[];for(j=1,pdl,if(ispseudoprime(p+pd[j]),k++;z=concat(z,p+pd[j]);nb=concat(nb,[p+pd[j]])));fl+=k;sp+=!k;rr=concat(rr,z));bl=nb);rr
+f(n,b)=for(k=1,length(digits(n,b)),print1(Strchr(g(digits(n,b)[k]))))
+g(n)=if(n<10,n+48,if(n<36,n+55,if(n<62,n+61,if(n<77,n-29,if(n<84,n-19,if(n<90,n+7,if(n<94,n+33,n+67)))))))
+c(n,z)=x=rtp(n);for(k=1,length(x),write1(z,"\"");f(x[k],n,z);write1(z,"\"=");write1(z,x[k]);write(z,))
+d(n,z)=for(k=1,primepi(n-1),write1(z,"\"");f(prime(k),n,z);write1(z,"\"=");write1(z,prime(k));write(z,))
+cc(n,z)=d(n,z);c(n,z)
