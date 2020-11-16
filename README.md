@@ -6,6 +6,8 @@
 
 "rtp n": right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
+See https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
+
 Notes: 
 
 * Since I don't know how to run the programs of minimal primes by Curtis Bright and Raymond Devillers, I only use PARI/GP program and only give the minimal primes < 2^32 (for bases > 50, since bases 2 to 30 already have data by Curtis Bright, and bases 28 to 50 already have data by Raymond Devillers)
