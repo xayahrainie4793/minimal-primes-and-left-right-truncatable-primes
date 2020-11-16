@@ -6,7 +6,7 @@
 
 "rtp n": right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
-See https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
+See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
 Notes: 
 
