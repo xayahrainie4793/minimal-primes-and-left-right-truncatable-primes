@@ -4,7 +4,7 @@
 9K{A}M
 9W1{0}1
 9{U}W
-AO{0}1
+AO{0}1 [prime at length 44793, but this prime is not minimal prime]
 A{0}WXY
 A{S}EZS
 A{X}i
@@ -19,9 +19,9 @@ G{0}ZS
 LY{L}S
 M{0}IP8
 M{S}FW
-O{0}1
-O{0}1F1***
-O{0}ZZ1***
+O{0}1 [prime at length 18523]
+O{0}1F1 [only lengths <= 18524 need to be tested]
+O{0}ZZ1 [only lengths <= 18524 need to be tested]
 PK{I}W
 R{I}4
 S{0}iXAG
