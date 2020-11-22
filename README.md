@@ -2,7 +2,7 @@ The name of the files means:
 
 "kernel n": minimal primes (https://primes.utm.edu/glossary/page.php?sort=MinimalPrime) in base n
 
-"left n": unsolved families for minimal primes in base n (format: x{y}z = xyyy...yyyz, where x,y,z are strings of digits)
+"left n": unsolved families for minimal primes in base n (format: x{y}z = xyyy...yyyz, where x,y,z are strings of digits) (the test limits are all length 10000, unless higher test limits shown)
 
 "ltp n": left truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime) in base n
 
