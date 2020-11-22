@@ -421,7 +421,7 @@ R{S}EG
 R{W}U
 R{W}Um
 R{W}gU
-S6L{m} [only lengths <= 52700 need to be tested]
+S6L{m} [only lengths < 52701 need to be tested, since SL{m} is prime at length 52700]
 S6{g}ZG
 S8{Z}X
 SA{K}P
@@ -553,8 +553,8 @@ YO9{d}
 YO{d}U
 YP{e}
 YUP{L}Q
-YUUd{m} [only lengths <= 16340 need to be tested]
-YUd{m} [only lengths <= 16339 need to be tested]
+YUUd{m} [only lengths < 16341 need to be tested, since Yd{m} is prime at length 16339]
+YUd{m} [only lengths < 16340 need to be tested, since Yd{m} is prime at length 16339]
 YW{L}G
 YY4{L}Q
 YZF{L}P
