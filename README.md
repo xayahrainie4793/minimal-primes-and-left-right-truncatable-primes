@@ -16,6 +16,12 @@ More information of left truncatable primes in base n: http://chesswanks.com/num
 
 More information of right truncatable primes in base n: http://fatphil.org/maths/rtp/rtp.html
 
+The bases such that all minimal primes are known are 2-16, 18, 20, 22-24, 30, 42 and possible 60
+
+The bases such that all left truncatable primes are known are 2-29, 31-35, 37-39, 41, 43, 47, 49, 51, 53, 55, 59, 61, 65, 67, 71, 73, 79, 83, 89
+
+The bases such that all right truncatable primes are known are 2-100 and possible higher base
+
 Notes: 
 
 * Since I don't know how to run the programs of minimal primes by Curtis Bright and Raymond Devillers, I only use PARI/GP program and only give the minimal primes < 2^32 (for bases > 50, since bases 2 to 30 already have data by Curtis Bright, and bases 28 to 50 already have data by Raymond Devillers)
