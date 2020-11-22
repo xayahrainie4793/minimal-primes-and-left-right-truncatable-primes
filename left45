@@ -2,9 +2,9 @@
 4{F}Uc
 4{F}c
 9K{A}M
-9W1{0}1 [already tested to length 100003]
+9W1{0}1 [already tested to length 100003, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm, this family is the same as S45 k=19666]
 9{U}W
-AO{0}1 [prime at length 44793, but this prime is not minimal prime, since O{0}1 is prime at length 18523]
+AO{0}1 [prime at length 44793, but this prime is not minimal prime, since O{0}1 is prime at length 18523, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm, this family is the same as S45 k=474]
 A{0}WXY
 A{S}EZS
 A{X}i
@@ -19,7 +19,7 @@ G{0}ZS
 LY{L}S
 M{0}IP8
 M{S}FW
-O{0}1 [prime at length 18523]
+O{0}1 [prime at length 18523, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm, this family is the same as S45 k=24]
 O{0}1F1 [only lengths < 18525 need to be tested, since O{0}1 is prime at length 18523]
 O{0}ZZ1 [only lengths < 18525 need to be tested, since O{0}1 is prime at length 18523]
 PK{I}W
