@@ -16,8 +16,6 @@ More information of left truncatable primes in base n: http://chesswanks.com/num
 
 More information of right truncatable primes in base n: http://fatphil.org/maths/rtp/rtp.html
 
-More information of left truncatable primes and right truncatable primes in base n: http://www.primerecords.dk/left-truncatable.htm
-
 The bases such that all minimal primes are known are 2-16, 18, 20, 22-24, 30, 42 and possible 60
 
 The bases such that all left truncatable primes are known are 2-29, 31-35, 37-39, 41, 43, 47, 49, 51, 53, 55, 59, 61, 65, 67, 71, 73, 79, 83, 89
