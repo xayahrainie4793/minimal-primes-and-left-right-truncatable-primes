@@ -2,13 +2,13 @@ Data for minimal primes, left truncatable primes, and right truncatable primes i
 
 The name of the files means:
 
-"kernel n": minimal primes (https://primes.utm.edu/glossary/page.php?sort=MinimalPrime) in base n
+"kernel n": data for minimal primes (https://primes.utm.edu/glossary/page.php?sort=MinimalPrime) in base n
 
 "left n": unsolved families for minimal primes in base n (format: x{y}z = xyyy...yyyz, where x,y,z are strings of digits) (the test limits are all length 10000, unless higher test limits shown)
 
-"ltp n": left truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime) in base n
+"ltp n": data for left truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime) in base n
 
-"rtp n": right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
+"rtp n": data for right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
