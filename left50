@@ -16,7 +16,7 @@ X{0}IAR
 Y{0}I01
 Z4{Z}n
 Z{g}Gn
-a{n}
+a{n} [already tested to length 121290, see https://www.mersenneforum.org/showpost.php?p=151373&postcount=1, this family is the same as R50 k=37]
 c{0}Wd
 c{4}L
 c{I}OR
