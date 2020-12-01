@@ -1,3 +1,5 @@
+Data for minimal primes, left truncatable primes, and right truncatable primes in bases 2 to 160
+
 The name of the files means:
 
 "kernel n": minimal primes (https://primes.utm.edu/glossary/page.php?sort=MinimalPrime) in base n
