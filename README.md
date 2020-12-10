@@ -10,6 +10,8 @@ The name of the files means:
 
 "rtp n": data for right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
+The "program of minimal.txt", "program of ltp.txt", and "program of rtp.txt" files in the "code" folder are PARI/GP programs of (minimal primes, left truncatable primes, right truncatable primes) in fixed base
+
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
 More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf
