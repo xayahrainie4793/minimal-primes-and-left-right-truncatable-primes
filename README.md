@@ -30,7 +30,7 @@ Notes:
 
 * Since I don't know how to run the programs of minimal primes by Curtis Bright and Raymond Devillers, I only use PARI/GP program and only give the minimal primes < 2^32 (for bases > 50, since bases 2 to 30 already have data by Curtis Bright, and bases 28 to 50 already have data by Raymond Devillers)
 
-* Since bases 18, 20, 22, 24, 26, 28, 30, 32~36 have too many left truncatable primes and thus PARI/GP cannot hold, I only give the left truncatable primes < 2^32
+* Since bases 18, 20, 22, 24, 26, 28, 30, 32-36 have too many left truncatable primes and thus PARI/GP cannot hold, the text files only have the left truncatable primes < 2^32
 
 Largest minimal prime in base n written in base 10 for 2<=n<=36:
 
