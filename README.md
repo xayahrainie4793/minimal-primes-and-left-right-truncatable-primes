@@ -12,7 +12,7 @@ The name of the files means:
 
 "twoside n": data for two-sided primes (both left-truncatable and right-truncatable) in base n
 
-The "program of minimal.txt", "program of ltp.txt", "program of rtp.txt", and "program of two sided" files in the "code" folder are PARI/GP codes of (minimal primes, left truncatable primes, right truncatable primes) in fixed base
+The "program of minimal.txt", "program of ltp.txt", "program of rtp.txt", and "program of two sides" files in the "code" folder are PARI/GP codes of (minimal primes, left-truncatable primes, right-truncatable primes, two-sided primes) in fixed base, just enter "cc(b,z.txt)" to write all (minimal primes, left-truncatable primes, right-truncatable primes, two-sided primes) in base b to the text file "z.txt"
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
