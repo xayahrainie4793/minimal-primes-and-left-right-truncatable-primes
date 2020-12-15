@@ -1,0 +1,8 @@
+digitsToNum(d, base) = sum(k=1, #d, base^(k-1) * d[k]);
+isLeftTruncatable(d, base) = my(ok=1); for(k=1, #d, if(!isprime(digitsToNum(d[1..k], base)), ok=0; break)); ok;
+generateFromPrefix(p, base) = my(seq = [p]); for(n=1, base-1, my(t=concat(n, p)); if(isprime(digitsToNum(t, base)), seq=concat(seq, select(v -> isLeftTruncatable(v, base), generateFromPrefix(t, base))))); seq;
+bothTruncatablePrimesInBase(base) = my(t=[]); my(P=primes(primepi(base-1))); for(k=1, #P, t=concat(t, generateFromPrefix([P[k]], base))); vector(#t, k, digitsToNum(t[k], base));
+row(n) = vecsort(bothTruncatablePrimesInBase(n));
+f(n,b,z)=for(k=1,length(digits(n,b)),write1(z,Strchr(g(digits(n,b)[k]))))
+g(n)=if(n<10,n+48,if(n<36,n+55,if(n<62,n+61,if(n<77,n-29,if(n<84,n-19,if(n<90,n+7,if(n<94,n+33,n+67)))))))
+cc(n,z)=r=row(n);for(k=1,length(r),write1(z,"\"");f(r[k],n,z);write1(z,"\"=");write1(z,r[k]);write(z,))
