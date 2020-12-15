@@ -10,6 +10,8 @@ The name of the files means:
 
 "rtp n": data for right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
+"twoside n": data for two-sided primes (both left truncatable and right truncatable) in base n
+
 The "program of minimal.txt", "program of ltp.txt", and "program of rtp.txt" files in the "code" folder are PARI/GP codes of (minimal primes, left truncatable primes, right truncatable primes) in fixed base
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
@@ -79,3 +81,19 @@ Length of largest right-truncatable prime in base n for 3<=n<=36: (since no such
 Number of right-truncatable primes in base n for 2<=n<=36: (https://oeis.org/A076586)
 
 0, 4, 7, 14, 36, 19, 68, 68, 83, 89, 179, 176, 439, 373, 414, 473, 839, 1010, 1577, 2271, 2848, 1762, 3376, 5913, 6795, 6352, 10319, 5866, 14639, 13303, 19439, 29982, 38956, 39323, 58857
+
+Largest two-sided prime in base n written in base 10 for 3<=n<=36: (since no such primes exist for base 2) (https://oeis.org/A323137)
+
+23, 11, 67, 839, 37, 1867, 173, 739397, 79, 105691, 379, 37573, 647, 3389, 631, 202715129, 211, 155863, 1283, 787817, 439, 109893629, 577, 4195880189, 1811, 14474071, 379, 21335388527, 2203, 1043557, 2939, 42741029, 2767, 50764713107
+
+Largest two-sided prime in base n written in base n for 3<=n<=36: (since no such primes exist for base 2)
+
+212, 23, 232, 3515, 52, 3513, 212, 739397, 72, 511B7, 232, D99B, 2D2, D3D, 232, 5H511HB, B2, J9D3, 2J2, 37LFJ, J2, DJ5BD5, N2, DF3LL97, 2D2, NF9N3, D2, T7TTH7H, 292, VR35, 2N2, VXF73, 292, NBJZZBN
+
+Length of largest two-sided prime in base n for 3<=n<=36: (since no such primes exist for base 2)
+
+3, 2, 3, 4, 2, 4, 3, 6, 2, 5, 3, 4, 3, 3, 3, 7, 2, 4, 3, 5, 2, 6, 2, 7, 3, 5, 2, 7, 3, 4, 3, 5, 3, 7
+
+Number of two-sided primes in base n for 2<=n<=36: (https://oeis.org/A323390)
+
+0, 2, 3, 5, 9, 7, 22, 8, 15, 6, 35, 11, 37, 17, 22, 12, 69, 12, 68, 18, 44, 13, 145, 16, 47, 20, 77, 13, 291, 15, 89, 27, 74, 20, 241
