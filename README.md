@@ -10,7 +10,7 @@ The name of the files means:
 
 "rtp n": data for right-truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
-"twoside n": data for two-sided primes (both left truncatable and right truncatable) in base n
+"twoside n": data for two-sided primes (both left-truncatable and right-truncatable) in base n
 
 The "program of minimal.txt", "program of ltp.txt", and "program of rtp.txt" files in the "code" folder are PARI/GP codes of (minimal primes, left truncatable primes, right truncatable primes) in fixed base
 
