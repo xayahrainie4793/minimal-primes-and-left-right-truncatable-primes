@@ -6,9 +6,9 @@ The name of the files means:
 
 "left n": unsolved families for minimal primes in base n (format: x{y}z = xyyy...yyyz, where x,y,z are strings of digits) (the test limits are all length 10000, unless higher test limits shown)
 
-"ltp n": data for left truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime) in base n
+"ltp n": data for left-truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime) in base n
 
-"rtp n": data for right truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
+"rtp n": data for right-truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime) in base n
 
 "twoside n": data for two-sided primes (both left truncatable and right truncatable) in base n
 
@@ -18,21 +18,21 @@ See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for 
 
 More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf
 
-More information of left truncatable primes in base n: http://chesswanks.com/num/LTPs/
+More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/
 
-More information of right truncatable primes in base n: http://fatphil.org/maths/rtp/rtp.html
+More information of right-truncatable primes in base n: http://fatphil.org/maths/rtp/rtp.html
 
 The bases such that all minimal primes are known are 2-16, 18, 20, 22-24, 30, 42, 60 (bases 13 and 23 need primality proving of probable primes)
 
-The bases such that all left truncatable primes are known are 2-29, 31-35, 37-39, 41, 43, 47, 49, 51, 53, 55, 59, 61, 65, 67, 71, 73, 79, 83, 89
+The bases such that all left-truncatable primes are known are 2-29, 31-35, 37-39, 41, 43, 47, 49, 51, 53, 55, 59, 61, 65, 67, 71, 73, 79, 83, 89
 
-The bases such that all right truncatable primes are known are 2-100 and possible higher bases
+The bases such that all right-truncatable primes are known are 2-100 and possible higher bases
 
 Notes: 
 
 * Since I don't know how to run the programs of minimal primes by Curtis Bright and Raymond Devillers, I only use PARI/GP program and only give the minimal primes < 2^32 (for bases > 50, since bases 2 to 30 already have data by Curtis Bright, and bases 28 to 50 already have data by Raymond Devillers)
 
-* Since bases 18, 20, 22, 24, 26, 28, 30, 32-36 have too many left truncatable primes and thus PARI/GP cannot hold, the text files only have the left truncatable primes < 2^32
+* Since bases 18, 20, 22, 24, 26, 28, 30, 32-36 have too many left-truncatable primes and thus PARI/GP cannot hold, the text files only have the left-truncatable primes < 2^32
 
 Largest minimal prime in base n written in base 10 for 2<=n<=36: (https://oeis.org/A326609)
 
