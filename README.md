@@ -18,7 +18,7 @@ See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for 
 
 More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf
 
-More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/
+More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/, http://www.primerecords.dk/left-truncatable.htm
 
 More information of right-truncatable primes in base n: http://fatphil.org/maths/rtp/rtp.html
 
