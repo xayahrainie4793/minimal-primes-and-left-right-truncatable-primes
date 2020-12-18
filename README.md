@@ -16,7 +16,7 @@ The "program of minimal.txt", "program of ltp.txt", "program of rtp.txt", and "p
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
-More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf
+More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf, https://scholar.colorado.edu/downloads/hh63sw661, https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf
 
 More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/, http://www.primerecords.dk/left-truncatable.htm
 
