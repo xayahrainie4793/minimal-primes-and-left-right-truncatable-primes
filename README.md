@@ -8,6 +8,8 @@ The name of the files means:
 
 "ltp n": data for left-truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime, https://oeis.org/A024785) in base n
 
+"mc n": data for minimal composites (https://oeis.org/A071070) in base n
+
 "rtp n": data for right-truncatable primes (https://primes.utm.edu/glossary/page.php?sort=RightTruncatablePrime, https://oeis.org/A024770) in base n
 
 "twoside n": data for two-sided primes (both left-truncatable and right-truncatable) in base n
