@@ -4,7 +4,7 @@ The name of the files means:
 
 "kernel n": data for minimal primes (https://primes.utm.edu/glossary/page.php?sort=MinimalPrime, https://oeis.org/A071062) in base n
 
-"left n": unsolved families for minimal primes in base n (format: x{y}z = xyyy...yyyz, where x,y,z are strings of digits) (the test limits are all length 10000, unless higher test limits shown) (files only for n<=50, if there are no file for n (n<=50), then means that all minimal (probable) primes in base n are known)
+"left n": unsolved families for minimal primes in base n (format: x{y}z = xyyy...yyyz, where x,y,z are strings of digits) (the test limits are all length 10000, unless higher test limits shown) (files only for n<=50, if there is no file for n (n<=50), then means that all minimal (probable) primes in base n are known)
 
 "ltp n": data for left-truncatable primes (https://primes.utm.edu/glossary/page.php?sort=LeftTruncatablePrime, https://oeis.org/A024785) in base n
 
