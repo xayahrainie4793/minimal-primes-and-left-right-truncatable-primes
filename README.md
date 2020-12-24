@@ -1,4 +1,4 @@
-Data for minimal primes, left truncatable primes, and right truncatable primes in bases 2 to 160
+Data for minimal primes, left-truncatable primes, right-truncatable primes, minimal composites, and two-sided primes in bases 2 to 160
 
 The name of the files means:
 
