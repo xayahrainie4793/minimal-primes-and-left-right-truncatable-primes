@@ -20,7 +20,7 @@ See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for 
 
 More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf, https://scholar.colorado.edu/downloads/hh63sw661, https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf, https://www.primepuzzles.net/puzzles/puzz_178.htm
 
-More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/, http://www.primerecords.dk/left-truncatable.htm, https://rosettacode.org/wiki/Find_largest_left_truncatable_prime_in_a_given_base
+More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/, http://www.primerecords.dk/left-truncatable.htm, https://rosettacode.org/wiki/Find_largest_left_truncatable_prime_in_a_given_base, https://gist.github.com/barak/5157964
 
 More information of right-truncatable primes in base n: http://fatphil.org/maths/rtp/rtp.html
 
