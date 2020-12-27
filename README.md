@@ -98,7 +98,7 @@ Length of largest minimal composite in base n for 2<=n<=36:
 
 4, 3, 3, 3, 4, 3, 3, 2, 3, 3, 4, 3, 3, 2, 3, 3, 4, 3, 3, 2, 3, 3, 4, 2, 3, 2, 3, 3, 4, 3, 3, 2, 3, 2, 4
 
-Number of minimal composites in base n for 2<=n<=36:
+Number of minimal composites in base n for 2<=n<=36: (https://oeis.org/A327282)
 
 3, 4, 9, 10, 19, 18, 26, 28, 32, 32, 46, 43, 52, 54, 60, 60, 95, 77, 87, 90, 94, 97, 137, 117, 111, 115, 131, 123, 207, 147, 160, 163, 201, 169, 216
 
