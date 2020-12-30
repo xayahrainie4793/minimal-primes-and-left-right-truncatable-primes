@@ -32,7 +32,7 @@ ASCII 91-96 for digits 84-89
 
 ASCII 123-126 for digits 90-93
 
-EASCII 161-255 for digits 94-188
+Extended ASCII 161-255 for digits 94-188
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
