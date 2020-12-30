@@ -16,6 +16,24 @@ The name of the files means:
 
 The "program of minimal.txt", "program of ltp.txt", "program of rtp.txt", and "program of two sides" files in the "code" folder are PARI/GP codes of (minimal primes, left-truncatable primes, right-truncatable primes, two-sided primes) in fixed base, just enter "cc(b,z.txt)" to write all (minimal primes, left-truncatable primes, right-truncatable primes, two-sided primes) in base b to the text file "z.txt"
 
+Digit notation:
+
+0-9 for digits 0-9
+
+A-Z for digits 10-35
+
+a-z for digits 36-61
+
+ASCII 33-47 for digits 62-76
+
+ASCII 58-64 for digits 77-83
+
+ASCII 91-96 for digits 84-89
+
+ASCII 123-126 for digits 90-93
+
+EASCII 161-255 for digits 94-188
+
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
 More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf, https://scholar.colorado.edu/downloads/hh63sw661, https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf, https://www.primepuzzles.net/puzzles/puzz_178.htm
