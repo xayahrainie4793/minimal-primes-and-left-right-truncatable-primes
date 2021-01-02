@@ -18,21 +18,21 @@ The "program of minimal.txt", "program of ltp.txt", "program of rtp.txt", and "p
 
 Digit notation:
 
-0-9 for digits 0-9
+0-9 for digit values 0-9
 
-A-Z for digits 10-35
+A-Z for digit values 10-35
 
-a-z for digits 36-61
+a-z for digit values 36-61
 
-ASCII 33-47 for digits 62-76
+ASCII 33-47 for digit values 62-76
 
-ASCII 58-64 for digits 77-83
+ASCII 58-64 for digit values 77-83
 
-ASCII 91-96 for digits 84-89
+ASCII 91-96 for digit values 84-89
 
-ASCII 123-126 for digits 90-93
+ASCII 123-126 for digit values 90-93
 
-Extended ASCII 161-255 for digits 94-188
+Extended ASCII 161-255 for digit values 94-188
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
