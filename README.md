@@ -66,7 +66,7 @@ Largest minimal prime in base n written in base n for 2<=n<=36:
 
 Length of largest minimal prime in base n for 2<=n<=36: (https://oeis.org/A330049)
 
-2, 3, 2, 5, 5, 5, 9, 4, 8, 45, 8, 32021, 86, 107, 3545, (≥111334), 33, (≥110986), 449, (≥479150), 764, 800874, 100, (≥136967), (≥8773), (≥109006), (≥94538), (≥174240), 1024, (≥9896), (≥9750), (≥9961), (≥9377), (≥9599), (≥3935)
+2, 3, 2, 5, 5, 5, 9, 4, 8, 45, 8, 32021, 86, 107, 3545, (≥111334), 33, (≥110986), 449, (≥479150), 764, 800874, 100, (≥136967), (≥8773), (≥109006), (≥94538), (≥174240), 1024, (≥9896), (≥9750), (≥9961), (≥9377), (≥9599), (≥81995)
 
 Number of minimal primes in base n for 2<=n<=36: (assuming the conjecture in https://mersenneforum.org/showpost.php?p=529838&postcount=675 is true) (https://oeis.org/A330048)
 
