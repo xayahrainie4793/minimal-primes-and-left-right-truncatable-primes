@@ -36,7 +36,7 @@ Extended ASCII 161-255 for digit values 94-188
 
 See the mersenneforum page https://mersenneforum.org/showthread.php?t=26159 for the list of these three types of primes and many other types of primes in bases 2<=n<=36
 
-More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf, https://scholar.colorado.edu/downloads/hh63sw661, http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf, https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf, https://www.primepuzzles.net/puzzles/puzz_178.htm
+More information of minimal primes in base n: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf, https://scholar.colorado.edu/downloads/hh63sw661, http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf, https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf, http://recursed.blogspot.com/2006/12/prime-game.html, https://www.primepuzzles.net/puzzles/puzz_178.htm
 
 More information of left-truncatable primes in base n: http://chesswanks.com/num/LTPs/, http://www.primerecords.dk/left-truncatable.htm, https://rosettacode.org/wiki/Find_largest_left_truncatable_prime_in_a_given_base, https://gist.github.com/barak/5157964
 
