@@ -3,7 +3,7 @@
 111{E}k
 111{S}08
 11W{L}G
-11c{0}1 [prime at length 29740, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm, this family is the same as S49 k=2488]
+11c{0}1 [prime at length 29740, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm#S49, this family is the same as S49 k=2488]
 1E{L}k
 1G{g}kk
 1K{F}K
@@ -183,7 +183,7 @@ FP{E}j
 FZ{1}
 Fa{1}
 FdE{g}j
-Fd{0}1 [prime at length 18343, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm, this family is the same as S49 k=774]
+Fd{0}1 [prime at length 18343, see http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm#S49, this family is the same as S49 k=774]
 Fd{0}aZm
 Fd{9}SO
 FeO{U}
@@ -429,7 +429,7 @@ SF{Z}j
 SI{Z}M
 SK{P}
 SLI{L}j
-SL{m} [prime at length 52700, see http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm, this family is the same as R49 k=1394]
+SL{m} [prime at length 52700, see http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm#R49, this family is the same as R49 k=1394]
 SMX{0}i
 SPM{S}M
 SP{0}gi
@@ -558,7 +558,7 @@ YUd{m} [only lengths < 16340 need to be tested, since Yd{m} is prime at length 1
 YW{L}G
 YY4{L}Q
 YZF{L}P
-Yd{m} [prime at length 16339, see http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm, this family is the same as R49 k=1706]
+Yd{m} [prime at length 16339, see http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm#R49, this family is the same as R49 k=1706]
 Yjaaa{g}6
 Yjj{g}d
 YkZ{m}
