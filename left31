@@ -9,12 +9,12 @@ PEO{0}Q
 P{F}G
 SP{0}K
 {F}G [already tested to length 524287, see http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt, this family is the generalized half Fermat numbers base 31]
-{F}KO
-{F}RA
+{F}KO [already tested to length 50000]
+{F}RA [already tested to length 50000]
 {L}9G
 {L}9IG
 {L}CE
-{L}G
+{L}G [already tested to length 50000]
 {L}IS
 {L}SO
 {P}I
