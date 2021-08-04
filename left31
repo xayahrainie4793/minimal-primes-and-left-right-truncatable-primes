@@ -1,6 +1,6 @@
 E8{U}P [prime at length 21869]
 IE{L} [prime at length 29789]
-ILE{L} [already tested to length 29000]
+ILE{L} [tested to length 30000 with no prime or PRP found, this family is now not needed since IE{L} is prime at length 29789]
 L0{F}G [tested to length 23000 with no prime or PRP found, this family is now not needed since L{F}G is prime at length 21054]
 L{F}G [prime at length 21054]
 MI{O}L [prime at length 10750]
