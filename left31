@@ -1,12 +1,12 @@
 E8{U}P [prime at length 21869]
 IE{L} [prime at length 29789]
-ILE{L} [already tested to length 27000]
+ILE{L} [already tested to length 29000]
 L0{F}G [tested to length 23000 with no prime or PRP found, this family is now not needed since L{F}G is prime at length 21054]
 L{F}G [prime at length 21054]
 MI{O}L [prime at length 10750]
 M{P} [already tested to length 39000]
 PEO{0}Q [prime at length 22371]
-P{F}G [already tested to length 26000]
+P{F}G [already tested to length 28000]
 SP{0}K
 {F}G [already tested to length 4194303, see http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt and https://mersenneforum.org/showthread.php?t=26879, this family is the generalized half Fermat numbers base 31]
 {F}KO
@@ -21,4 +21,4 @@ SP{0}K
 {R}1
 {R}1R
 {R}8
-{U}P8K [already tested to length 23000]
+{U}P8K [already tested to length 24000]
