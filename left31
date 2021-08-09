@@ -7,7 +7,7 @@ MI{O}L [prime at length 10750]
 M{P} [already tested to length 39000]
 PEO{0}Q [prime at length 22371]
 P{F}G [already tested to length 32000]
-SP{0}K [already tested to length 18000]
+SP{0}K [already tested to length 20000]
 {F}G [already tested to length 4194303, see http://www.fermatquotient.com/PrimSerien/GenFermOdd.txt and https://mersenneforum.org/showthread.php?t=26879, this family is the generalized half Fermat numbers base 31]
 {F}KO
 {F}RA
@@ -18,7 +18,7 @@ SP{0}K [already tested to length 18000]
 {L}IS
 {L}SO
 {P}I
-{R}1 [already tested to length 26000]
+{R}1 [already tested to length 27000]
 {R}1R [prime at length 22139]
-{R}8 [already tested to length 31000]
+{R}8 [already tested to length 33000]
 {U}P8K [already tested to length 30000]
