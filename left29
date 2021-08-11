@@ -1,45 +1,45 @@
-1{A}
+1{A} [already tested to length 233000]
 4R{9} [prime at length 17754]
-68L{0}6
+68L{0}6 [already tested to length 233000]
 6{0}EL [prime at length 20594]
 8{K}F [prime at length 18586]
 9E9{0}L [prime at length 34348]
 AFO{0}O [prime at length 14851]
 AF{6} [prime at length 13865]
-AM{P}
+AM{P} [already tested to length 233000]
 E9{C} [prime at length 61503]
 FK0{I} [prime at length 11044]
-FK{I}
+FK{I} [already tested to length 233000]
 LO{G} [prime at length 66083]
-LP0{9}
+LP0{9} [already tested to length 233000]
 LP{0}L [prime at length 10613]
 LP{C}9 [prime at length 75154]
 M{0}RAA [prime at length 14051]
-OOP{S}A
+OOP{S}A [already tested to length 233000]
 O{0}FPL [prime at length 174240]
 PC{9} [prime at length 27606]
 PC{L} [prime at length 123420]
 PO{L}0O [prime at length 64558]
-PPP{L}O
+PPP{L}O [already tested to length 233000]
 PR{C}R [prime at length 15126]
 P{0}OPR [prime at length 59148]
 P{A}6 [prime at length 32790]
-P{C}
+P{C} [already tested to length 233000]
 P{L}C [prime at length 54180]
 P{L}OOC [prime at length 39434]
 Q9R{0}9 [prime at length 52053]
 RKP{0}P [prime at length 26424]
-R{M}G
+R{M}G [already tested to length 233000]
 S{P}K [prime at length 41947]
-{C}FK
+{C}FK [already tested to length 233000]
 {E}9C0C [prime at length 15487]
 {F}A9 [prime at length 20674]
 {F}IK [prime at length 57251]
-{F}OP
-{F}OPF
+{F}OP [already tested to length 233000]
+{F}OPF [already tested to length 233000]
 {I}FK [prime at length 110727]
 {L}CE [prime at length 72089]
 {P}LP [prime at length 21975]
-{Q}GL
-{Q}LO
+{Q}GL [already tested to length 233000]
+{Q}LO [already tested to length 233000]
 {Q}OL [prime at length 27659]
