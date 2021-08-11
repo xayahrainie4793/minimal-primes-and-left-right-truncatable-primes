@@ -1,12 +1,12 @@
-6M{F}9
-CM{1}
-EE{1}
+6M{F}9 [already tested to length 292000]
+CM{1} [already tested to length 292000]
+EE{1} [already tested to length 292000]
 EF{O} [already tested to length 660850, see http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm#R25, this family is the same as R25 k=366]
-E{1}E
-F0{K}O
-F{0}KO
-F{1}F1
-LO{L}8
-M1{0}8
-M{1}F1
-O{L}8
+E{1}E [already tested to length 292000]
+F0{K}O [already tested to length 292000]
+F{0}KO [already tested to length 292000]
+F{1}F1 [already tested to length 292000]
+LO{L}8 [already tested to length 292000]
+M1{0}8 [already tested to length 292000]
+M{1}F1 [already tested to length 292000]
+O{L}8 [already tested to length 292000]
