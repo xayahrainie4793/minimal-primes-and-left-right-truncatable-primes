@@ -14,8 +14,8 @@ SP{0}K [already tested to length 20000]
 {L}9G [prime at length 10014]
 {L}9IG
 {L}CE
-{L}G [already tested to length 11000]
-{L}IS
+{L}G
+{L}IS [already tested to length 11000]
 {L}SO
 {P}I [already tested to length 32000]
 {R}1 [already tested to length 27000]
