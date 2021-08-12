@@ -14,7 +14,7 @@ SP{0}K [already tested to length 20000]
 {L}9G [prime at length 10014]
 {L}9IG [tested to length 13000 with no prime or PRP found, this family is now not needed since {L}9G is prime at length 10014]
 {L}CE
-{L}G [already tested to length 14000]
+{L}G [already tested to length 20000]
 {L}IS
 {L}SO
 {P}I [already tested to length 32000]
