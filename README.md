@@ -139,3 +139,5 @@ Length of largest two-sided prime in base n for 3<=n<=36: (since no such primes 
 Number of two-sided primes in base n for 2<=n<=36: (https://oeis.org/A323390)
 
 0, 2, 3, 5, 9, 7, 22, 8, 15, 6, 35, 11, 37, 17, 22, 12, 69, 12, 68, 18, 44, 13, 145, 16, 47, 20, 77, 13, 291, 15, 89, 27, 74, 20, 241
+
+Reference of more base-dependent types of primes: https://mersenneforum.org/showpost.php?p=562621&postcount=7
