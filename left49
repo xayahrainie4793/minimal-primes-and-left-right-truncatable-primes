@@ -222,7 +222,7 @@ K111{F}
 K1P{1}
 K1{6}K
 K9F{j}
-K9{O}
+K9{O} [already tested to length 12500, see https://mersenneforum.org/showpost.php?p=457244&postcount=49, this family is the same as base 7 d=3 k=989]
 K9{g}m
 K9{j}
 KKY{L}j
@@ -700,7 +700,7 @@ dQ{d}QP
 dU{S}k
 dU{d}4
 dW{S}4
-dY{O}
+dY{O} [already tested to length 12500, see https://mersenneforum.org/showpost.php?p=457244&postcount=49, this family is the same as base 7 d=3 k=1945]
 daE{U}
 dd{g}jSI
 dm{E}i
